@@ -1,0 +1,12 @@
+let score = "33abc"
+
+console.log(typeof score);
+console.log(typeof (score));
+
+let valueInNumber = Number(score)
+console.log(valueInNumber);
+
+
+//NaN Not a number but type is number
+
+
